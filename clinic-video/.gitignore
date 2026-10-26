@@ -1,3 +1,4 @@
 tools/
 work/
 output/
+__pycache__/
